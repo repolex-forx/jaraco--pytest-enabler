@@ -1,0 +1,11 @@
+{
+  "org": "jaraco",
+  "repo": "pytest-enabler",
+  "versions": [
+    {
+      "commit": "2f6585b18a16b021cf1e15c2711fc8b724c37482",
+      "tag": "",
+      "parsed_at": "2026-10-18T05:22:53.480682+00:00"
+    }
+  ]
+}
