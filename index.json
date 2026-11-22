@@ -3,6 +3,11 @@
   "repo": "pytest-enabler",
   "versions": [
     {
+      "commit": "877170c270250374a7dee8d5561fb9ee0e5657bf",
+      "tag": "v3.4.0",
+      "parsed_at": "2026-11-22T00:48:07.572278+00:00"
+    },
+    {
       "commit": "2f6585b18a16b021cf1e15c2711fc8b724c37482",
       "tag": "",
       "parsed_at": "2026-10-18T05:22:53.480682+00:00"
